@@ -1,4 +1,10 @@
-### Hi there 👋
+### BackEnd Engineer
+- 4th grade in Electrical and Computer Engineering, University of Seoul
+
+### Interest
+- Back-end Development using ✨Java and SpringBoot✨
+- DB Development using ✨Oracle(SQL)✨
+- Development of Asynchronous Web Page wit ✨Vue.js✨
 
 <!--
 **j00hyun/j00hyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
