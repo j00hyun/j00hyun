@@ -1,7 +1,3 @@
-<div align=center>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/j00hyun](https://hits.seeyoufarm.com) 
-</div>
-
 ### BackEnd Engineer
 - 4th grade in Electrical and Computer Engineering, University of Seoul
 
@@ -10,10 +6,13 @@
 - DB Development using ✨Oracle(SQL)✨
 - Development of Asynchronous Web Page wit ✨Vue.js✨
 
+<div align=center>
+  
   [![Instagram Badge](https://img.shields.io/badge/instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/joo_h_97/?hl=ko)](https://www.instagram.com/joo_h_97/?hl=ko)
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:loove1997@gmail.com)](mailto:loove1997@gmail.com)
 
+</div>
 <!--
 **j00hyun/j00hyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
