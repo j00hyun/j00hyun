@@ -1,4 +1,4 @@
-### BackEnd Engineer
+### BackEnd Engineer [![Instagram Badge](https://img.shields.io/badge/instagram-yello?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/joo_h_97/?hl=ko)](https://www.instagram.com/joo_h_97/?hl=ko)
 - 4th grade in Electrical and Computer Engineering, University of Seoul
 
 ### Interest
@@ -8,6 +8,6 @@
 
 <div>
   
-  [![Instagram Badge](https://img.shields.io/badge/instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/joo_h_97/?hl=ko)](https://www.instagram.com/joo_h_97/?hl=ko)
+  
 
 </div>
