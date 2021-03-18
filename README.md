@@ -22,3 +22,6 @@
   
   
 - 마트에서 계산대를 이용하지 않고 소비자의 핸드폰으로 바로 결제를 돕는 [**Mart Auto Payment**](https://github.com/j00hyun/mobile-mart-payment "git repository link") Android 어플리케이션 (진행중)   
+
+### Study
+- [**자료구조 & 알고리즘 공부 기록**](https://github.com/j00hyun/prepare-coding-interview/wiki "git wiki link")
