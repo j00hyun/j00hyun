@@ -1,7 +1,14 @@
-## 🍎 iOS Developer
-- Graduation in Electrical and Computer Engineering, University of Seoul
+## 🍎 iOS Developer 
+
+<img src="https://img.shields.io/badge/Come to my Blog-3DDC84?style=flat&logo=Velog&logoColor=white"/>
+
+- Studied in Electrical and Computer Engineering, University of Seoul
 
 
+
+- Worked in Lotte Data Communication Company for Lotte World Booking System Management
+
+    
 ### Experience
 - iOS Mobile Application Development using **Swift**
 
@@ -17,7 +24,7 @@
 
 ### Project
 #### iOS
-- 화학 주기율표 암기를 도와주는 [**주기율표**](https://github.com/j00hyun/ElementQuiz "git repository link") 퀴즈 iOS 어플리케이션
+- 화학 주기율표 암기를 도와주는 [**주기율표 퀴즈**](https://github.com/j00hyun/ElementQuiz "git repository link") iOS 어플리케이션
 
 
 
@@ -37,6 +44,3 @@
   
   
 - 마트에서 계산대를 이용하지 않고 소비자의 핸드폰으로 바로 결제를 돕는 [**Mart Auto Payment**](https://github.com/j00hyun/mobile-mart-payment "git repository link") Android 어플리케이션
-
-### Study
-- [**자료구조 & 알고리즘 공부 기록**](https://github.com/j00hyun/prepare-coding-interview.git "git wiki link")
